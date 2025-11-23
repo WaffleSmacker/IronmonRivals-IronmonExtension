@@ -11,7 +11,7 @@ The official extension for competing in [Ironmon Rivals](https://ironmonrivals.c
 5) In the Extensions menu, enable "**Allow custom code to run**" (if it is currently disabled)
 6) Click the "**Install New**" button at the bottom to check for newly installed extensions
    - If you don't see anything in the extensions list, double-check the extension files are installed in the right location. Refer to the [Tracker wiki documentation](https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#install-and-setup-1) if you need additional help
-7) Click on the "**SmackerTracker V1.0**" extension button to view the extension and turn it on
+7) Click on the "**IronmonRivals**" extension button to view the extension and turn it on
 
 ## How to use
 1) Turn on the extension in the Ironmon Tracker.
@@ -35,7 +35,7 @@ If it matches, click Activate. This will lead you to one more confirmation scree
 <img width="452" height="429" alt="image" src="https://github.com/user-attachments/assets/6c65fae1-8840-4fc0-aed2-eff0710a96ca" /> <br>
 
 5) The last step is to input the current season webhook url, this will be listed in the [IronmonRivals discord](https://discord.gg/3NuPXcG45G), please get it there. <br>
-After you input the url, please click "Save Settings".  This will take you back to the main page, then click "Send Test Ping". <br>
+After you input the url (Control + C then Control + V), please click "Save Settings".  This will take you back to the main page, then click "Send Test Ping". <br>
 If everything was set up correctly then you should see the Status turn green and say "Ready". <br> <br>
 <img width="542" height="442" alt="image" src="https://github.com/user-attachments/assets/08ba3e82-4c7e-4a1c-bd30-cab39d29a9d1" /> <br>
 <img width="542" height="440" alt="image" src="https://github.com/user-attachments/assets/ad3a9595-40ce-4f4f-913a-b9aae5d86d3a" /> <br>
