@@ -15,7 +15,8 @@ The official extension for competing in [Ironmon Rivals](https://ironmonrivals.c
 
 ## How to use
 1) Turn on the extension in the Ironmon Tracker.
-2) Inside the `[YOUR_TRACKER_FOLDER]/extensions/IronmonRivals` open IronmonRivalsMonitor.exe
+2) Inside the `[YOUR_TRACKER_FOLDER]/extensions/IronmonRivals` open IronmonRivalsMonitor.exe <br>
+NOTE: YOU NEED TO RUN THIS APPLICATION EVERY TIME YOU PLAY IRONMON RIVALS
 
 ## Setting up IronmonRivalsMonitor.exe
 1) Open the application. <br> <br>
