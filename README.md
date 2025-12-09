@@ -7,11 +7,15 @@ The official extension for competing in [Ironmon Rivals](https://ironmonrivals.c
 3) Put the extension file(s) in the existing "**extensions**" folder found inside your Tracker folder
    - The file(s) should appear as: `[YOUR_TRACKER_FOLDER]/extensions/IronmonRivals.lua`
    - The folder should appear as: `[YOUR_TRACKER_FOLDER]/extensions/IronmonRivals`
-4) On the Tracker settings menu (click the gear icon on the Tracker window), click the "**Extensions**" button
-5) In the Extensions menu, enable "**Allow custom code to run**" (if it is currently disabled)
-6) Click the "**Install New**" button at the bottom to check for newly installed extensions
+4) On the Tracker settings menu (click the gear icon on the Tracker window), click the "**Extensions**" button <br>
+<img width="290" height="322" alt="image" src="https://github.com/user-attachments/assets/05baf7a5-53cf-4809-9205-a05291f3cdda" />
+
+6) In the Extensions menu, enable "**Allow custom code to run**" (if it is currently disabled)
+7) Click the "**Install New**" button at the bottom to check for newly installed extensions
    - If you don't see anything in the extensions list, double-check the extension files are installed in the right location. Refer to the [Tracker wiki documentation](https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#install-and-setup-1) if you need additional help
-7) Click on the "**IronmonRivals**" extension button to view the extension and turn it on
+8) Click on the "**IronmonRivals**" extension button to view the extension and turn it on
+<img width="285" height="308" alt="image" src="https://github.com/user-attachments/assets/238a3f88-4f37-4533-a49b-9b20b0529080" /> <br>
+
 
 ## How to use
 1) Turn on the extension in the Ironmon Tracker.
