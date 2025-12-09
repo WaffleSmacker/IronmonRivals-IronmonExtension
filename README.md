@@ -13,7 +13,7 @@ The official extension for competing in [Ironmon Rivals](https://ironmonrivals.c
 6) In the Extensions menu, enable "**Allow custom code to run**" (if it is currently disabled)
 7) Click the "**Install New**" button at the bottom to check for newly installed extensions
    - If you don't see anything in the extensions list, double-check the extension files are installed in the right location. Refer to the [Tracker wiki documentation](https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#install-and-setup-1) if you need additional help
-8) Click on the "**IronmonRivals**" extension button to view the extension and turn it on
+8) Click on the "**IronmonRivals**" extension button to view the extension and turn it on<br>
 <img width="285" height="308" alt="image" src="https://github.com/user-attachments/assets/238a3f88-4f37-4533-a49b-9b20b0529080" /> <br>
 
 
